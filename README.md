@@ -1,3 +1,9 @@
 # hello-world
 My first repository
-hello I hope that i will be quite sucessful in this!
+#include <iostream>
+using namespace std;
+int main ()
+{
+count << "Hello World" << endl;
+system("pause");
+}
